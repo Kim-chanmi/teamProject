@@ -89,24 +89,28 @@
         <section id="mainColumn" class="mainColumn__wrap container">
             <div class="mainColumn__inner">
                 <div class="column_left">
-                    <h3 class="col_tit">물 주기, <br>
-                        내가 잘못하는 이유가
-                        무엇일까?</h3>
-                    <p class="col_sub">우리 집 식물의 옳바른 물주기</p>
-                    <div class="col_desc">처음에 식물을 키울때 가장 난감한 것은 식물의 물을
-                        주는 주기였다. 한번은 물을 너무 많이 주어서 식물이
-                        죽은경우가 있었고, 또 어떤 경우는 너무 물을 주지
-                        않아서 식물이 죽었었다.
-                        처음 식물을 기르는 사람들에게 가장 어려운 식물의
-                        물주기....</div>
-                    <p class="col_name"><em>copy.</em> 김눈누 | <em>date.</em> 2022.10.07</p>
+                    <a href="../column/column01.php">
+                        <h3 class="col_tit">물 주기, <br>
+                            내가 잘못하는 이유가
+                            무엇일까?</h3>
+                        <p class="col_sub">우리 집 식물의 옳바른 물주기</p>
+                        <div class="col_desc">처음에 식물을 키울때 가장 난감한 것은 식물의 물을
+                            주는 주기였다. 한번은 물을 너무 많이 주어서 식물이
+                            죽은경우가 있었고, 또 어떤 경우는 너무 물을 주지
+                            않아서 식물이 죽었었다.
+                            처음 식물을 기르는 사람들에게 가장 어려운 식물의
+                            물주기....</div>
+                        <p class="col_name"><em>copy.</em> 김눈누 | <em>date.</em> 2022.10.07</p>   
+                    </a>
                 </div>
                 <div class="column_right">
-                    <figure>
-                        <img src="../assets/img/mainColumn_bg.jpg" alt="물주기 일러스트 이미지">
-                        <a href="../column/column01.php"><img src="../assets/img/mainColumn_btn.svg"
-                                alt="물주기, 내가 잘못하는 이유가 무엇일까? 바로가기 버튼"></a>
-                    </figure>
+                    <a href="../column/column01.php">
+                        <figure> 
+                            <img src="../assets/img/mainColumn_bg.jpg" alt="물주기 일러스트 이미지">
+                            <!-- <a href="../column/column01.php"><img src="../assets/img/mainColumn_btn.svg"
+                                    alt="물주기, 내가 잘못하는 이유가 무엇일까? 바로가기 버튼"></a> -->
+                        </figure>
+                    </a>
                 </div>
             </div>
         </section>
@@ -122,68 +126,78 @@
                     <div class="swiper mySwiper card">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
-                                <div class="card">
-                                    <figure class="card_img">
-                                        <img src="../html/assets/img/cardColumn01.jpg" alt="실내에서 멋지게 식물을 키우는 법" />
-                                    </figure>
-                                    <div class="card_desc">
-                                        <h3><a href="../column/column04.php">실내에서 멋지게 식물을 키우는 법</a></h3>
-                                        <p>집을 멋지게 꾸미자!</p>
-                                        <p class="card_name"><em>copy.</em> 김눈누</p>
+                                <a href="../column/column04.php">
+                                    <div class="card">
+                                        <figure class="card_img">
+                                            <img src="../html/assets/img/cardColumn01.jpg" alt="실내에서 멋지게 식물을 키우는 법" />
+                                        </figure>
+                                        <div class="card_desc">
+                                            <h3><a href="../column/column04.php">실내에서 멋지게 식물을 키우는 법</a></h3>
+                                            <p>집을 멋지게 꾸미자!</p>
+                                            <p class="card_name"><em>copy.</em> 김눈누</p>
+                                        </div>
                                     </div>
-                                </div>
+                                </a>
                             </div>
                             <div class="swiper-slide">
-                                <div class="card">
-                                    <figure class="card_img">
-                                        <img src="../html/assets/img/cardColumn02.jpg" alt="식물키우기 고수, 식물킬러를 만나다" />
-                                    </figure>
-                                    <div class="card_desc">
-                                        <h3>
-                                            <a href="../column/column02.php">식물키우기 고수, 식물킬러를 만나다</a>
-                                        </h3>
-                                        <p>가장떠오르는 식물계의 인플루언서 ‘식물킬러’</p>
-                                        <p class="card_name"><em>copy.</em> 김눈누</p>
+                                <a href="../column/column02.php">
+                                    <div class="card">
+                                        <figure class="card_img">
+                                            <img src="../html/assets/img/cardColumn02.jpg" alt="식물키우기 고수, 식물킬러를 만나다" />
+                                        </figure>
+                                        <div class="card_desc">
+                                            <h3>
+                                                <a href="../column/column02.php">식물키우기 고수, 식물킬러를 만나다</a>
+                                            </h3>
+                                            <p>가장떠오르는 식물계의 인플루언서 ‘식물킬러’</p>
+                                            <p class="card_name"><em>copy.</em> 김눈누</p>
+                                        </div>
                                     </div>
-                                </div>
+                                </a>
                             </div>
                             <div class="swiper-slide">
-                                <div class="card">
-                                    <figure class="card_img">
-                                        <img src="../html/assets/img/cardColumn03.jpg" alt="따뜻한 겨울, 목화의 이야기" />
-                                    </figure>
-                                    <div class="card_desc">
-                                        <h3><a href="../cloumn/column03.php">실내 식물들을 위한 응급처치법</a></h3>
-                                        <p>차가운 물, 찬 공기, 그늘을 피해 주세요!</p>
-                                        <p class="card_name"><em>copy.</em> 김눈누</p>
+                                <a href="../column/column03.php">
+                                    <div class="card">
+                                        <figure class="card_img">
+                                            <img src="../html/assets/img/cardColumn03.jpg" alt="따뜻한 겨울, 목화의 이야기" />
+                                        </figure>
+                                        <div class="card_desc">
+                                            <h3><a href="../cloumn/column03.php">실내 식물들을 위한 응급처치법</a></h3>
+                                            <p>차가운 물, 찬 공기, 그늘을 피해 주세요!</p>
+                                            <p class="card_name"><em>copy.</em> 김눈누</p>
+                                        </div>
                                     </div>
-                                </div>
+                                </a>
                             </div>
                             <div class="swiper-slide">
-                                <div class="card">
-                                    <figure class="card_img">
-                                        <img src="../html/assets/img/cardColumn04.jpg" alt="식물이 좋아하는 물 주기 방법" />
-                                    </figure>
-                                    <div class="card_desc">
-                                        <h3><a href="../column/column05.php">식물이 좋아하는 물 주기 방법</a></h3>
-                                        <p>
-                                            어떻게 물을 줘야 제대로 주는 걸까
-                                        </p>
-                                        <p class="card_name"><em>copy.</em> 김눈누</p>
+                                <a href="../column/column05.php">
+                                    <div class="card">
+                                        <figure class="card_img">
+                                            <img src="../html/assets/img/cardColumn04.jpg" alt="식물이 좋아하는 물 주기 방법" />
+                                        </figure>
+                                        <div class="card_desc">
+                                            <h3><a href="../column/column05.php">식물이 좋아하는 물 주기 방법</a></h3>
+                                            <p>
+                                                어떻게 물을 줘야 제대로 주는 걸까
+                                            </p>
+                                            <p class="card_name"><em>copy.</em> 김눈누</p>
+                                        </div>
                                     </div>
-                                </div>
+                                </a>
                             </div>
                             <div class="swiper-slide card">
-                                <div class="card">
-                                    <figure class="card_img">
-                                        <img src="../html/assets/img/cardColumn05.jpg" alt="식물이 스트레스 받는 이유" />
-                                    </figure>
-                                    <div class="card_desc">
-                                        <h3><a href="../column/column06.php">식물이 스트레스 받는 이유</a></h3>
-                                        <p>식물킬러를 위한 아주 쉬운 식물책</p>
-                                        <p class="card_name"><em>copy.</em> 김눈누</p>
+                                <a href="../column/column06.php">
+                                    <div class="card">
+                                        <figure class="card_img">
+                                            <img src="../html/assets/img/cardColumn05.jpg" alt="식물이 스트레스 받는 이유" />
+                                        </figure>
+                                        <div class="card_desc">
+                                            <h3><a href="../column/column06.php">식물이 스트레스 받는 이유</a></h3>
+                                            <p>식물킬러를 위한 아주 쉬운 식물책</p>
+                                            <p class="card_name"><em>copy.</em> 김눈누</p>
+                                        </div>
                                     </div>
-                                </div>
+                                </a>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card">
